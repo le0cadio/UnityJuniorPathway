@@ -4,8 +4,12 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
-    void Update() 
+    void Update()
     {
-        transform.Translate(Input.GetAxis("Horizontal") * Time.deltaTime * 10, 0, Input.GetAxis("Vertical") * Time.deltaTime * 10);
+        transform.Translate(
+            Input.GetAxis("Horizontal") * Time.deltaTime * 10,
+            0,
+            Input.GetAxis("Vertical") * Time.deltaTime * 10
+        );
     }
 }
