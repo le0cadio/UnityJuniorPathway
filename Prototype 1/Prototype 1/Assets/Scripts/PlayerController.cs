@@ -4,11 +4,11 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
-    public float speed = 5.0f;
-    public float turnSpeed;
-    public float horizontalInput;
-    public float fowardInput;
- 
+    private float speed = 5.0f;
+    private float turnSpeed;
+    private float horizontalInput;
+    private float fowardInput;
+
     void Update()
     {
         horizontalInput = Input.GetAxis("Horizontal");
@@ -17,5 +17,4 @@ public class PlayerController : MonoBehaviour
         transform.Translate(Vector3.forward * Time.deltaTime * speed * fowardInput);
         transform.Rotate(Vector3.up, Time.deltaTime * turnSpeed * horizontalInput);
     }
-
 }
