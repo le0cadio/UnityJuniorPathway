@@ -7,3 +7,5 @@ Effective project management and teamwork involves:
 - Clear communication with teammates, clients, and other stakeholders
 - Delivery of a final product to deadline
 - A final product or output that satisfies the requirements established for the project and meets the defined goal(s)
+
+# Phases of production
