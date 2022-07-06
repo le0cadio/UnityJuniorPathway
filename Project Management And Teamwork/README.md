@@ -17,3 +17,7 @@ Effective project management and teamwork involves:
 - Post-production: Work done after the final product appears to be complete, including quality assurance (QA), editing, testing, bug fixing, and final polishing.
 
 - Operations: Ongoing work after a product has been released to keep it running, such as sales, monetization, updates, and continued maintenance.
+
+![image](https://user-images.githubusercontent.com/99060199/177439899-cb6d2fd9-bf28-4977-ae40-ab2b114ebec4.png)
+
+(Properly planning for each phase of the production cycle is crucial when you need to deliver a project that is on time and works as expected.) 
