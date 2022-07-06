@@ -9,3 +9,11 @@ Effective project management and teamwork involves:
 - A final product or output that satisfies the requirements established for the project and meets the defined goal(s)
 
 # Phases of production
+
+- Pre-production: The work done before full-scale production begins, such as planning, prototyping, pipeline setup, and initial designs.
+
+- Production: Creation of the product and assets within it, including the creation of final 2D images and 3D models, audio, lighting, and user experience.
+
+- Post-production: Work done after the final product appears to be complete, including quality assurance (QA), editing, testing, bug fixing, and final polishing.
+
+- Operations: Ongoing work after a product has been released to keep it running, such as sales, monetization, updates, and continued maintenance.
