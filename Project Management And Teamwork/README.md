@@ -49,3 +49,41 @@ Let’s explore some guidance for successfully completing and delivering project
 - Be respectful of others’ time — and of your own.
 - When critiquing work, remain constructive and sensitive to the feelings of others. Focus on making your feedback helpful, specific, and respectful.
 - Be open to feedback yourself by actively listening and engaging with the person delivering the feedback. Reflect honestly on how their feedback can be addressed. 
+
+# Design documents and project plans
+
+In the pre-production phase at the start of the project, design documents are created to help define and scope what you are going to create. These documents include: 
+- Game (or Experience) Design Documents (GDDs)
+- Target user personas
+- Project charters
+- Technical specifications
+- Design documents
+- Design documents contain the blueprint for your project. They include:
+- High level overviews; for example, an overall project vision in the Game (or Experience) Design Document
+- Requirements and standards for particular pipelines in the project
+- Detailed design specifications for particular features
+
+In your high level design document, you should identify:
+- The goal and purpose for the project
+- The intended users and audience
+- Key features of the project
+- The final form of delivery
+- A design document can include diagrams, flow charts, sketches, inspirational images from similar products, and reference images to capture the intended look and feel of the product. 
+
+# Preparing to publish
+
+Quality assurance testing
+During the QA testing process, there are two important project management considerations: 
+- QA testing scripts and bug reporting processes. 
+- Test scripts
+- A QA test script is a series of steps for a tester to follow and record their observations. These scripts are usually created before formal testing starts, and are used to evaluate the product against specific project requirements and use cases. They may also be used to test the team’s assumptions about the user experience of the product.
+Bug report tracking
+
+Bug tracking and resolution is a vital part of polishing the product for delivery. The tools used to track bug reports vary — Jira and Github are popular choices, but many individuals and teams use a spreadsheet. 
+Typical bug reports include: 
+- Title / brief summary: A descriptive title for the bug.
+- Identified frequency: How often does this bug occur (every time, most times, randomly, rarely)?
+- Reproduction steps: Precise steps on how to reproduce the bug. This should be detailed enough that a developer can recreate the bug themselves without any additional information.
+- Detailed description:  A more detailed summary of the bug and its impact on user experience.
+Any other observations: These could include thoughts on what may be causing the bug and other relevant details (for example, “error occurs inconsistently, but more frequently at night than during the day”).
+
