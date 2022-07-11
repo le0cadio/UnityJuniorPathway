@@ -436,6 +436,7 @@ GameObject:
   - component: {fileID: 3678173550416442923}
   - component: {fileID: 3678173550408674197}
   - component: {fileID: 3678173549800504027}
+  - component: {fileID: 1771656990}
   m_Layer: 0
   m_Name: Doe
   m_TagString: Untagged
@@ -501,6 +502,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 10
+--- !u!114 &1771656990
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3678173550416187597}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 150e55669d49a9a48b8fa9347de5b535, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &3678173550416195139
 GameObject:
   m_ObjectHideFlags: 0
