@@ -1,5 +1,5 @@
 # UnityJuniorPathway
- Repo to be my notebook in UnityJuniorPathway
+- Repo to be my notebook in UnityJuniorPathway
  
  # My profile in Unity
 
