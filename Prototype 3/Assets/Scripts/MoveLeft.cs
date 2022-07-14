@@ -6,8 +6,6 @@ public class MoveLeft : MonoBehaviour
 {
     public float speed = 30;
 
-    void Start() { }
-
     void Update()
     {
         if (Input.GetKey(KeyCode.LeftArrow))
