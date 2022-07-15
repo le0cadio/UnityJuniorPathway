@@ -8,6 +8,7 @@ public class PlayerController : MonoBehaviour
     public float jumpForce = 10;
     public float gravityModifier;
     public bool isGrounded = true;
+    public bool gameOver;
 
     void Start()
     {
@@ -29,6 +30,12 @@ public class PlayerController : MonoBehaviour
         if (collision.gameObject.CompareTag("Ground"))
         {
             isGrounded = true;
+        }
+
+        if (collision.gameObject.CompareTag("Obstacle"))
+        {
+            gameOver = true;
+            Debug.Log("Game Over!");
         }
     }
 }
