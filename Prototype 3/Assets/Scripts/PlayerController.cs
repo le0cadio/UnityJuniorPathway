@@ -5,6 +5,7 @@ using UnityEngine;
 public class PlayerController : MonoBehaviour
 {
     private Rigidbody rb;
+    private Animator playerAnim;
     public float jumpForce = 10;
     public float gravityModifier;
     public bool isGrounded = true;
@@ -14,6 +15,7 @@ public class PlayerController : MonoBehaviour
     {
         rb = GetComponent<Rigidbody>();
         Physics.gravity *= gravityModifier;
+        playerAnim = GetComponent<Animator>();
     }
 
     void Update()
@@ -22,6 +24,7 @@ public class PlayerController : MonoBehaviour
         {
             rb.AddForce(Vector3.up * jumpForce, ForceMode.Impulse);
             isGrounded = false;
+            playerAnim.SetTrigger("Jump_trig");
         }
     }
 
@@ -36,6 +39,8 @@ public class PlayerController : MonoBehaviour
         {
             gameOver = true;
             Debug.Log("Game Over!");
+            playerAnim.SetBool("Death_b", true);
+            playerAnim.SetInteger("DeathType_int", 1);
         }
     }
 }
