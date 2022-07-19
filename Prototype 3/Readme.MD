@@ -1,7 +1,10 @@
 # Runner game
 
+# Functionalities 
+- spacebar to jump
 
-# functionalities 
 
-spacebar to jump
-left key to run
+# Video of how game works
+
+https://user-images.githubusercontent.com/99060199/179835499-f0bcce45-890c-4417-8dd0-aa1950b85f4c.mp4
+
