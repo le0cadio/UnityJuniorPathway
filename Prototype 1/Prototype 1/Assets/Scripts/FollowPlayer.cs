@@ -5,8 +5,9 @@ using UnityEngine;
 public class FollowPlayer : MonoBehaviour
 {
     public Vector3 offset = new Vector3(0, 5, -7);
-    void LateUpdate()
+
+    void FixedUpdate()
     {
-        transform.position = player.transform.position + offset;
+        transform.position = GameObject.FindGameObjectWithTag("Player").transform.position + offset;
     }
 }

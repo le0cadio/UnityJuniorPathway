@@ -428,7 +428,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66fb718a2a385f44b8fbb574a0ec77d7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  player: {fileID: 1998561885}
   offset: {x: 0, y: 5, z: -7}
 --- !u!1 &670858607 stripped
 GameObject:
@@ -523,6 +522,10 @@ PrefabInstance:
     - target: {fileID: 178130, guid: 70bf34f6c25c948458f254e87188b00b, type: 3}
       propertyPath: m_Name
       value: Vehicle
+      objectReference: {fileID: 0}
+    - target: {fileID: 178130, guid: 70bf34f6c25c948458f254e87188b00b, type: 3}
+      propertyPath: m_TagString
+      value: Player
       objectReference: {fileID: 0}
     - target: {fileID: 436868, guid: 70bf34f6c25c948458f254e87188b00b, type: 3}
       propertyPath: m_RootOrder
