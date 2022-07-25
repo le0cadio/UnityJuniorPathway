@@ -63,7 +63,7 @@ When you’ve defined the test questions, there are logistics to consider. You s
 - Plan to record the session (if applicable).
 - Choose a leader and note-takers for the session, if working in a team.
 
-# Exercise: Mini product evaluation
+# Exercise: mini product evaluation
 
 Before you finish this tutorial, take a quick moment to put yourself in the role of a user tester. You just need an open document or a scrap of paper, to record and organize your thoughts. To do this:
 
