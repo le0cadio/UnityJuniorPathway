@@ -13,6 +13,7 @@ public class Target : MonoBehaviour
     private float ySpawnpos = -2;
     public int pointValue;
     public ParticleSystem explosionParticle;
+    public ParticleSystem fireworksParticle;
 
     void Start()
     {
