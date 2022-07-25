@@ -28,8 +28,8 @@ The user testing process typically follows this high level structure:
 - Define the objectives
 Before you prepare the questions to get feedback from users, you should determine:
 
-- What you want to learn about your project
-- What you will show the users to elicit feedback (for example, wireframes, design mock-ups, or a prototype)
+- What you want to learn about your project.
+- What you will show the users to elicit feedback (for example, wireframes, design mock-ups, or a prototype).
 
 You can then assess your questions and testing session plan against these objectives, to ensure that they will help you get the information you need about your project.
 
