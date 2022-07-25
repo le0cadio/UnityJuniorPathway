@@ -62,3 +62,32 @@ When you’ve defined the test questions, there are logistics to consider. You s
 - Create an agenda for the testing session(s).
 - Plan to record the session (if applicable).
 - Choose a leader and note-takers for the session, if working in a team.
+
+# Exercise: Mini product evaluation
+
+Before you finish this tutorial, take a quick moment to put yourself in the role of a user tester. You just need an open document or a scrap of paper, to record and organize your thoughts. To do this:
+
+1.  Choose one or two products (digital or physical) that you think are particularly well made. For example, a game or software with a particularly good user experience, or a kitchen implement that’s stylish yet functional.
+
+2.  Try to identify why you like the product so much. Use the following questions to help you:
+- What user needs does it address for you?
+- What is positive about the experience for you as a user?
+- How do you feel when you use it?
+- How steep was the learning curve when you began to use it?
+- Would you recommend it to others? Extend this answer by identifying who precisely you would recommend it to, and your reason for doing so. 
+
+3.  This is a product that you like a lot, but take a moment to identify areas it has for improvement. Use the following questions to help you:
+
+- Do you have relevant user needs that it does not adequately address?
+- Do you have desires, rather than needs, that it does not address?
+- Are there areas where the experience of using it could be refined?
+- If you could say one thing to the people who designed and made the product, what would it be?
+
+4.  Take a moment to evaluate the feedback you’ve written up for the product. If you were part of the design and development team, would this give you enough information to:
+
+- Clearly identify the positive and negative aspects of the user’s experience of your product?
+- Begin to identify possible actions that might address any user pain points?
+
+If not, try to identify the additional questions you would ask to get that information — this will help you scope your questions when you prepare for user testing something that you’re working on!
+
+
