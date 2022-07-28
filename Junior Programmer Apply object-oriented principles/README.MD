@@ -1,4 +1,7 @@
 # What is Abstraction?
+![abstraction](https://user-images.githubusercontent.com/99060199/181403377-883fa7cd-b2ca-4b48-b7af-654477936d45.png)
+
+
 
 The first pillar of OOP is all about keeping your code clean and simple for the programmer using it, whether that is you or someone else. Abstraction is the process of removing complex code from the scripts where other programmers will see it, and only exposing the functionality other programmers really need. When you “abstract out” the details, you reduce duplicate code and provide easy access to the most useful functions.
 
