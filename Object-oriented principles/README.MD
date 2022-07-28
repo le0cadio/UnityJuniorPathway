@@ -24,6 +24,8 @@ Although inheriting core functionality from a parent class can be helpful, there
 
 # What is encapsulation?
 
+![encapsulation](https://user-images.githubusercontent.com/99060199/181404250-411a647b-7bb9-43d1-89bc-10d9e83399b8.png)
+
 
 Much like abstraction, encapsulation focuses heavily on maintaining a level of separation between the underlying complexity of your code and other code that uses it. Due to their similarity, you will sometimes see some followers of OOP practices group abstraction and encapsulation into a single pillar, typically under the header of encapsulation. However, we’re making a distinction that we think is important: while abstraction is all about summarizing code to make it simpler for other programmers, encapsulation is all about protecting values and data, as if they are enclosed in a capsule, so that you control what others do and do not have access to.  
 
