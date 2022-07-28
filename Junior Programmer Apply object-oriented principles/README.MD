@@ -16,3 +16,7 @@ Inheritance is the process of creating a primary class (also known as a parent c
 
 ![inheritance2](https://user-images.githubusercontent.com/99060199/181403602-f6fd407f-2b77-4c84-b00a-c698247f3cde.png)
 
+# What is polymorphism?
+
+Although inheriting core functionality from a parent class can be helpful, there are many situations where you don’t want the child class to perform exactly the same action as the parent class. Polymorphism allows you to change the functionality of what an object inherits from its parent class. Inheritance and polymorphism help you create interrelationships between your classes that ultimately help to reduce the total amount of code you need to write.
+
