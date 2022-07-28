@@ -9,4 +9,10 @@ Abstraction simplifies your code and keeps it clean, making it easier for progra
 
 # What is inheritance?
 
+![inheritance](https://user-images.githubusercontent.com/99060199/181403583-e2bb4479-dcb2-4e76-8dba-b60a33d1dfc5.png)
+
+
 Inheritance is the process of creating a primary class (also known as a parent class) from which other classes (called child classes) can be created. A child class takes on, or inherits, all of the features of the parent class automatically. It’s common to have different classes share similar features in an application. For example, a video game may feature many different types of enemy classes, but they are likely to share the same core features, such as managing their own health and the ability to deal damage to the player. With inheritance, the need to write that health and damage functionality for each individual enemy class is eliminated, so that you can focus on writing functionality that’s unique to each class. 
+
+![inheritance2](https://user-images.githubusercontent.com/99060199/181403602-f6fd407f-2b77-4c84-b00a-c698247f3cde.png)
+
