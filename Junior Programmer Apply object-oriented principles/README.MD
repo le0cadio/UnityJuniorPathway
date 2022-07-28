@@ -22,3 +22,13 @@ Inheritance is the process of creating a primary class (also known as a parent c
 
 Although inheriting core functionality from a parent class can be helpful, there are many situations where you don’t want the child class to perform exactly the same action as the parent class. Polymorphism allows you to change the functionality of what an object inherits from its parent class. Inheritance and polymorphism help you create interrelationships between your classes that ultimately help to reduce the total amount of code you need to write.
 
+# What is encapsulation?
+
+
+Much like abstraction, encapsulation focuses heavily on maintaining a level of separation between the underlying complexity of your code and other code that uses it. Due to their similarity, you will sometimes see some followers of OOP practices group abstraction and encapsulation into a single pillar, typically under the header of encapsulation. However, we’re making a distinction that we think is important: while abstraction is all about summarizing code to make it simpler for other programmers, encapsulation is all about protecting values and data, as if they are enclosed in a capsule, so that you control what others do and do not have access to.  
+
+A major theme of encapsulation is safety in code — in other words, the process of ensuring that code is only used as it is intended to be used, and the values and data you are manipulating can’t be corrupted. In encapsulated code, other programmers can’t easily change the values of variables or the properties of objects. It’s impossible to account for all of the different ways that other scripts might access your code, so it's far better to encapsulate what you’ve created so it can only perform as intended. 
+
+Encapsulation protects your code by controlling the ways values are accessed and changed, so that your code is only used as explicitly designed. Like abstraction, encapsulation places a layer of separation between the underlying complexity of your code and the programmers who might be accessing it. 
+
+
