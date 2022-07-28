@@ -18,5 +18,7 @@ Inheritance is the process of creating a primary class (also known as a parent c
 
 # What is polymorphism?
 
+![polymorphism](https://user-images.githubusercontent.com/99060199/181403787-42ee3c39-8845-4b1e-97dd-65839c02abde.png)
+
 Although inheriting core functionality from a parent class can be helpful, there are many situations where you don’t want the child class to perform exactly the same action as the parent class. Polymorphism allows you to change the functionality of what an object inherits from its parent class. Inheritance and polymorphism help you create interrelationships between your classes that ultimately help to reduce the total amount of code you need to write.
 
