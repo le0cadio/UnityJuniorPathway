@@ -1,5 +1,5 @@
 # UnityJuniorPathway
-- Repo to be my notebook in UnityJuniorPathway
+- notebook in UnityJuniorPathway
 
 # Finished! That's my new unity Badge 
 
